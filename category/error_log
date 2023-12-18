@@ -1,0 +1,13 @@
+[09-Nov-2019 09:47:26 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/isasadmin007/public_html/isas_api/objects/courses.php on line 14
+[09-Nov-2019 10:03:30 UTC] PHP Fatal error:  Call to a member function rowCount() on a non-object in /home/isasadmin007/public_html/isas_api/category/courses_one_read.php on line 20
+[09-Nov-2019 10:14:21 UTC] PHP Fatal error:  Call to a member function rowCount() on a non-object in /home/isasadmin007/public_html/isas_api/category/courses_one_read.php on line 20
+[11-Nov-2019 11:29:56 UTC] PHP Fatal error:  Class 'main' not found in /home/isasadmin007/public_html/isas_api/objects/courses.php on line 3
+[11-Nov-2019 11:33:16 UTC] PHP Fatal error:  Call to a member function rowCount() on a non-object in /home/isasadmin007/public_html/isas_api/category/courses_one_read.php on line 20
+[11-Nov-2019 11:37:01 UTC] PHP Catchable fatal error:  Object of class Course could not be converted to string in /home/isasadmin007/public_html/isas_api/objects/courses.php on line 19
+[11-Nov-2019 11:37:51 UTC] PHP Fatal error:  Call to undefined method PDO::rowCount() in /home/isasadmin007/public_html/isas_api/objects/courses.php on line 19
+[11-Nov-2019 11:43:43 UTC] PHP Fatal error:  Call to a member function rowCount() on a non-object in /home/isasadmin007/public_html/isas_api/category/courses_one_read.php on line 20
+[11-Nov-2019 12:54:57 UTC] PHP Fatal error:  Class 'CoursesRead' not found in /home/isasadmin007/public_html/isas_api/category/courses_read.php on line 13
+[12-Nov-2019 13:53:45 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/isasadmin007/public_html/isas_api/objects/courses.php on line 21
+[12-Nov-2019 13:55:12 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/isasadmin007/public_html/isas_api/objects/courses.php on line 21
+[18-Mar-2020 11:26:16 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/isasadmin007/public_html/isas_app/objects/domain_category.php on line 21
+[19-Mar-2020 05:20:58 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/isasadmin007/public_html/isas_app/objects/domain_category.php on line 21
